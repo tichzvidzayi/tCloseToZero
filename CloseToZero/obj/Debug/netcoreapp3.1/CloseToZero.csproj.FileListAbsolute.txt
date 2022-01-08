@@ -1,0 +1,14 @@
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\bin\Debug\netcoreapp3.1\CloseToZero.exe
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\bin\Debug\netcoreapp3.1\CloseToZero.deps.json
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\bin\Debug\netcoreapp3.1\CloseToZero.runtimeconfig.json
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\bin\Debug\netcoreapp3.1\CloseToZero.runtimeconfig.dev.json
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\bin\Debug\netcoreapp3.1\CloseToZero.dll
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\bin\Debug\netcoreapp3.1\CloseToZero.pdb
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\obj\Debug\netcoreapp3.1\CloseToZero.csproj.AssemblyReference.cache
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\obj\Debug\netcoreapp3.1\CloseToZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\obj\Debug\netcoreapp3.1\CloseToZero.AssemblyInfoInputs.cache
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\obj\Debug\netcoreapp3.1\CloseToZero.AssemblyInfo.cs
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\obj\Debug\netcoreapp3.1\CloseToZero.csproj.CoreCompileInputs.cache
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\obj\Debug\netcoreapp3.1\CloseToZero.dll
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\obj\Debug\netcoreapp3.1\CloseToZero.pdb
+C:\Users\Tichaona Zvidzayi\source\repos\CloseToZero\CloseToZero\obj\Debug\netcoreapp3.1\CloseToZero.genruntimeconfig.cache
