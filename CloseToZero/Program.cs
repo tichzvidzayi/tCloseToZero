@@ -10,15 +10,10 @@ namespace CloseToZero
         {
             /*
              * return the closest number to zero
-     
              */
-
             List<int> xs = new List<int>() {-23,190,4,5,-9,-92,7,89 }; 
-
-
             Console.WriteLine( "The closest number to zero is " + Closest(xs));
             Console.Read();
-
         }
 
         private static int Closest(List<int> xs)
@@ -27,20 +22,31 @@ namespace CloseToZero
             foreach (int i in xs)
             {
                 if (i == 0)
+                {
                     return 0;
+                }
                 if (i < 0)
+                {
                     neg.Add(i);
+                }
                 else
+                { 
                     pos.Add(i);
+                }
             }
 
             if (neg.Any() == false)
+            { 
                 return pos.Min();
+            }
             else if (pos.Any() == false)
-                return neg.Max();
+            { 
+                return neg.Max(); 
+            }
             else
+            {
             return (Math.Abs(neg.Max()) <= pos.Min() ? neg.Max() : pos.Min());
-
+            }
         }
     }
 }
